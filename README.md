@@ -1,6 +1,6 @@
 #CentOS Vagrant box with container tools.
 
-`This branch i.e. UTB(Upstream Tracker Build) will have changes to build Vagrant images to include latest upstream bits i.e. docker, k8s, atomic etc.
+`This branch i.e. UTB(Upstream Tracker Build) will have changes to build Vagrant images to include latest upstream bits i.e. docker, k8s, atomic etc.`
 
 ##Building the Vagrant box in CBS(CentOS build system)
 * Get access for building images in CBS. Refer http://wiki.centos.org/HowTos/CommunityBuildSystem
